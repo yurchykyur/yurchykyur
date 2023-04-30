@@ -6,11 +6,11 @@
 <h3 align="center">I am a person who is looking for a new way</h3>
 
 
-* 🔭 I’m currently studying in **GoIT**
+* 🔭 I’m currently studying in **[GoIT]( https://m.goit.global/ua/new/?utm_source=google&utm_medium=cpc&utm_campaign=20045535777&utm_term=148385237973|656655249831||goit&gclid=CjwKCAjwo7iiBhAEEiwAsIxQETjFRnABTkjMMDWMyV9CX3FfK_cSj4rO3LCiN4YH5QfIK7DhizzZpBoC2mEQAvD_BwE)**
 
 * 📫 How to reach me **yurchyk.yur.s@gmail.com**
 
-* 📄 Know about my experiences [https://yurchykyur.github.io/resume/](https://yurchykyur.github.io/resume/)
+* 📄 Know about my experiences [https://yurchykyur.github.io/resume/](https://yurchykyur.github.io/resume/) (in the development process)
 
 * ⚡ Motto in life: **The way is life**
 
