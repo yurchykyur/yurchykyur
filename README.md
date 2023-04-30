@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Yurii</h1>
-<h3 align="center">A person looking for a new way</h3>
+<h3 align="center">I am a person who is looking for a new way</h3>
 
 
 * 🔭 I’m currently studying in **GoIT**
