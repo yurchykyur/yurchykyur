@@ -1,6 +1,6 @@
 
 
-![alt text](https://github.com/yurchykyur/yurchykyur/blob/main/github-readme-cover.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Yurii</h1>
 <h3 align="center">A person looking for a new way</h3>
