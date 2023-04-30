@@ -15,7 +15,6 @@
 * ⚡ Motto in life: **The way is life**
 
 ## My social:
-<h3 align="left">Connect with me:</h3>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yurchyk.yurii) 
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yurii-yurchyk) 
