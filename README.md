@@ -10,7 +10,7 @@
 
 * 📫 How to reach me **yurchyk.yur.s@gmail.com**
 
-* 📄 Know about my experiences [https://](https://)
+* 📄 Know about my experiences [https://yurchykyur.github.io/resume/](https://yurchykyur.github.io/resume/)
 
 * ⚡ Motto in life: **The way is life**
 
