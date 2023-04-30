@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yurii</h1>
 <h3 align="center">I am a person who is looking for a new way</h3>
 
-* 🔭 I’m currently studying in **[GoIT](https://goit.global/ua/)** Full Stack Developer (FSON 85)
+* 🔭 I’m currently studying in **[GoIT](https://goit.global/ua/)** on the course - Full Stack Developer (FSON 85)
 
 * 📫 How to reach me **yurchyk.yur.s@gmail.com**
 
