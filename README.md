@@ -19,7 +19,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yurchyk.yurii) 
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yurii-yurchyk) 
 [![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Yurchyk_Yurii)
-[![viber](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=%2B380953546754)
+[![viber](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](https://viber://chat?number=%2B380953546754)
 
 
 
