@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/yurchykyur/yurchykyur/blob/main/github-readme-cover.jpg)
 
 
 
