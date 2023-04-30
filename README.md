@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yurchykyur" alt="yurchykyur" /></a> </p>
 
+- 🔭 I’m currently studying in **GoIT**
+
 - 📫 How to reach me **yurchyk.yur.s@gmail.com**
 
 - 📄 Know about my experiences [https://](https://)
 
-- ⚡ Motto in life **The way is life**
+- ⚡ Motto in life: **The way is life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
