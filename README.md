@@ -7,8 +7,6 @@
 
 * 📫 How to reach me **yurchyk.yur.s@gmail.com**
 
-* 📄 Know about my experiences [https://yurchykyur.github.io/resume/](https://yurchykyur.github.io/resume/) (in the development process)
-
 * ⚡ Motto in life: **The way is life** **(Дорога - це життя)**
 
 ## My social:
